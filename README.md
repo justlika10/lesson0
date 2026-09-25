@@ -1,4 +1,3 @@
-</> Markdown 
 # Python Learning 
 
 This repository contains my Python exercises and small projects.
